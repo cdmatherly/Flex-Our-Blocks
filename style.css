@@ -16,10 +16,10 @@
 }
 .main {
     height: 400px;
-    width: 720px;
+    width: 700px;
     background-color: red;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 30px;
     padding: 1%;
 }
 .sub-content {
@@ -38,5 +38,6 @@
 .row {
     align-items: flex-start;
     display: flex;
+    justify-content: center;
 }
 
